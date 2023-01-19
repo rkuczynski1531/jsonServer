@@ -21,7 +21,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/308000/308630/494238-352x500.jpg"
     },
     {
       "id" : 1,
@@ -67,7 +67,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4973000/4973956/911059-352x500.jpg"
     },
     {
       "id" : 3,
@@ -90,7 +90,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/5001000/5001198/958056-352x500.jpg"
     },
     {
       "id" : 4,
@@ -113,7 +113,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4862000/4862898/690923-352x500.jpg"
     },
     {
       "id" : 5,
@@ -136,7 +136,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4999000/4999480/969157-352x500.jpg"
     },
     {
       "id" : 6,
@@ -159,11 +159,11 @@
           "title": "Podobna ksiazka 1",
           "author" : "autor 1"
         },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/5029000/5029705/1018033-352x500.jpg"
     },
     {
       "id" : 7,
-      "title" : "Gdzie śpiewają raki ",
+      "title" : "Gdzie śpiewają raki",
       "author" : "Delia Owens",
       "pages" : "416",
       "released" : "2018008-14",
@@ -182,7 +182,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/5019000/5019183/1045632-352x500.jpg"
     },
     {
       "id" : 8,
@@ -205,7 +205,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/5017000/5017747/984776-352x500.jpg"
     },
     {
       "id" : 9,
@@ -228,7 +228,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
+      "image" : "https://s.lubimyczytac.pl/upload/books/5036000/5036477/1015451-352x500.jpg"
     }
   ]
 }
