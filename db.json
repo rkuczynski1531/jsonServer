@@ -21,7 +21,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "harry"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 1,
@@ -44,7 +44,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "ksiaze"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 2,
@@ -67,7 +67,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "lata"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 3,
@@ -90,7 +90,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "mistrz"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 4,
@@ -113,7 +113,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "igrzyska"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 5,
@@ -136,7 +136,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "rok"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 6,
@@ -159,7 +159,7 @@
           "title": "Podobna ksiazka 1",
           "author" : "autor 1"
         },
-      "image" : "cholod"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 7,
@@ -182,7 +182,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "raki"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 8,
@@ -205,7 +205,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "kawa"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     },
     {
       "id" : 9,
@@ -228,7 +228,7 @@
         "title": "Podobna ksiazka 1",
         "author" : "autor 1"
       },
-      "image" : "zachod"
+      "image" : "https://s.lubimyczytac.pl/upload/books/4992000/4992460/1021144-352x500.jpg"
     }
   ]
 }
